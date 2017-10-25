@@ -1,7 +1,5 @@
-== Week 1 of my 12 in 12 Challenge
+== Getting my Rails game on lock!
 
-My goal with this challenge is to teach myself Ruby on Rails by building a new web app (using rails) each week for 12 weeks.
+This week I followed some fun internet pal instructions on how to go about building a link aggregator tool like Reddit or Hacker News.
 
-This week I built a link aggregator site, similar to Reddit or Hacker News, where a user can sign up, submit a link, as well as comment and vote up or down on link submissions.
-
-{View the demo application here}[http://raddit.herokuapp.com/]
+I built this on Rails 4 to get familiar with the version for any legacy projects.  The next series of deployments will be built on v5.
